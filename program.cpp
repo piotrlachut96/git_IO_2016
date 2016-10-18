@@ -54,6 +54,7 @@ main()
  wczytaj(T,n);
  wyswietl(T,n);
  sortuj(T,n,m);
+ cout<<"zmiana nr 2"<<endl;
  wyswietl(T,n);
 //system("pause");
  return 0;
